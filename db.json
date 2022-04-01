@@ -1,0 +1,74 @@
+{
+  "meetups": [
+    {
+      "id": 1,
+      "title": "Saunter Strech",
+      "location": "bangalore",
+      "date": "2022-03-25",
+      "time": "23:59",
+      "theme": "technology",
+      "description": "Random Event",
+      "image": "https://via.placeholder.com/140x100"
+    },
+    {
+      "id": 2,
+      "title": "chandu",
+      "location": "kolkata",
+      "date": "2022-03-24",
+      "time": "23:59",
+      "theme": "art",
+      "description": "chandu event",
+      "image": "https://via.placeholder.com/140x100"
+    },
+    {
+      "title": "new title",
+      "location": "bangalore",
+      "date": "2022-04-01",
+      "time": "10:26",
+      "theme": "movies",
+      "description": "new realse",
+      "image": "https://via.placeholder.com/200x100",
+      "id": 3
+    },
+    {
+      "title": "new title4",
+      "location": "bangalore",
+      "date": "2022-04-02",
+      "time": "10:26",
+      "theme": "art",
+      "description": "new realse4",
+      "image": "https://via.placeholder.com/200x100",
+      "id": 4
+    },
+    {
+      "title": "sdhvb",
+      "location": "bangalore",
+      "date": "2022-04-06",
+      "time": "10:26",
+      "theme": "art",
+      "description": "ewkjbvfweiu",
+      "image": "https://via.placeholder.com/200x100",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "chandu",
+      "password": "chandu",
+      "location": "bangalore",
+      "interests": [
+        "food",
+        "art",
+        "technology",
+        "movies"
+      ],
+      "image": "https://via.placeholder.com/140x100",
+      "subscribed": [
+        1,
+        2,
+        3
+      ],
+      "id": 1
+    }
+  ]
+}
